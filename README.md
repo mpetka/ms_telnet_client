@@ -38,7 +38,7 @@ License and Authors
 Authors: Sölvi Páll Ásgeirsson
 
 ```text
-Copyright (c) 2013, Sölvi Páll Ásgeirsson
+Copyright (c) 2014, Sölvi Páll Ásgeirsson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
