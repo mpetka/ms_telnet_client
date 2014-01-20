@@ -6,7 +6,7 @@ maintainer_email 'solvip@gmail.com'
 license          'All rights reserved'
 description      'Ensures that the Telnet-Client feature is present on Windows nodes'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.1.0'
+version          '1.0.0'
 
 supports 'windows'
 
